@@ -1,0 +1,48 @@
+/* * {
+    background-color: darkslategrey;
+    viewport-fit: 100%;
+}
+
+header h1 {
+    width: 550px;
+    background-color: darkgrey;
+}
+
+header h2 {
+    width: 550px;
+    background-color: darkgrey;
+}
+
+img {
+    height: 300px;
+}
+
+article p {
+    background-color: cornflowerblue;
+    width: 550px;
+}
+button{
+    color: blue;
+}
+
+article a {
+    color: black;
+} */
+
+/* * {
+    width: 800px;
+    background-color: cornflowerblue;
+    color: black;
+}
+body p {
+    background-color: brown;
+} */
+
+body {
+    background-color: brown;
+    height: 680px;
+}
+
+img {
+    width: 600px;
+}
