@@ -41,8 +41,9 @@ body p {
 body {
     background-color: brown;
     height: 680px;
+    width: 680px;
 }
 
 img {
-    width: 600px;
+    width: 680px;
 }
